@@ -3,11 +3,13 @@
 import '../models/experience_model.dart';
 import '../models/project_model.dart';
 
-const List listTechnologies1 = ['Flutter', 'Git', 'Firebase', 'Burpsuite',];
+const List listTechnologies1 = ['Html & Css', 'Javascript', 'Dart',];
 
-const List listTechnologies2 = ['Tailwinds', 'Bootstrap', 'Postman', 'Wordpress',];
+const List listTechnologies2 = ['Flutter', 'Bootstrap', 'Wordpress',];
 
-const List listTechnologies3 = ['Figma', 'Google Ads', 'FB Business', 'Copywriting',];
+const List listTechnologies3 = ['Burpsuite', 'Advertising', 'Copywriting', ];
+
+
 
 const List<ExperienceModel> listExperience = [
   ExperienceModel(
