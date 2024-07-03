@@ -7,7 +7,7 @@ const List listTechnologies1 = ['Html & Css', 'Javascript', 'Dart',];
 
 const List listTechnologies2 = ['Flutter', 'Bootstrap', 'Wordpress',];
 
-const List listTechnologies3 = ['Burpsuite', 'Advertising', 'Copywriting', ];
+const List listTechnologies3 = ['Burpsuite', 'Advertising', 'Copywriting',];
 
 
 
