@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/it/Documents/Web/br0farhan.github.io/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseInstallations.build/module.modulemap \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/it/Documents/Web/br0farhan.github.io/build/macos/Build/Intermediates.noindex/Pods.build/Debug/PromisesObjC.build/module.modulemap \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/it/Documents/Web/br0farhan.github.io/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponent.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRDependency.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLogger.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResultInternal.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h \
+  /Users/it/Documents/Web/br0farhan.github.io/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h
